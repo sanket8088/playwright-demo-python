@@ -4,7 +4,7 @@
 
 ## Playwright Python pytest_bdd example
 - Depends on [pytest-playwright](https://github.com/microsoft/playwright-pytest) 
-- pip install -r requirements.txt
+- Make sure you are in same directory where requirements.txt exists. Once in directory run "pip install -r requirements.txt"
 - playwright install
 
 ## Playwright Documentation
